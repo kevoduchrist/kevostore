@@ -1,0 +1,25 @@
+{
+  "name": "Kévo Store — APK Hub",
+  "short_name": "Kévo Store",
+  "description": "Télécharge les applications et jeux Kev en APK.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0b1220",
+  "theme_color": "#101827",
+  "lang": "fr",
+  "icons": [
+    {
+      "src": "kevo-store-logo.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "kevo-store-logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
